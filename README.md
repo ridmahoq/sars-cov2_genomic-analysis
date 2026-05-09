@@ -27,6 +27,7 @@ This project analyzes SARS-CoV-2 genome sequences using bioinformatics and data 
 - stats/ contain statistical output files
 - final_project.ipynb is the complete analysis notebook
 - hoq_final_project_report.pdf is the final project report
+- others are other output files
 
 ## Example Outputs
 
