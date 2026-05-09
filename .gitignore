@@ -13,3 +13,5 @@ final_cov_mutations.csv
 
 # cytoscape files
 *.cx2
+
+*.docx
