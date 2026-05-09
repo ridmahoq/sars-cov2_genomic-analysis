@@ -1,0 +1,10 @@
+Reference genome: MT324062.1
+Reference length: 29903
+Total genomes processed: 1001
+Reference genomes: 1
+Query genomes: 1000
+Successfully processed: 1000
+Skipped: 0
+Total variants: 393
+Unique samples with variants: 393
+SNP: 393

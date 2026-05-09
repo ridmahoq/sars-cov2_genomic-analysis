@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+
+# data files and aligned sequences
+*.fasta
+*.fas
+
+# large output files
+final_cov_mutations.csv
+
+# cytoscape files
+*.cx2
